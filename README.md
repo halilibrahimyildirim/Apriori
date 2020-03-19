@@ -8,7 +8,7 @@
 </p>
 
 ## Input
-  [Input](https://github.com/halilibrahimyildirim/Apriori/blob/master/ISBSG-raw-data-v2.txt). Application **does not accept flex input** but you can easily edit code.
+  [Example Input](https://github.com/halilibrahimyildirim/Apriori/blob/master/ISBSG-raw-data-v2.txt)<br> Application **does not accept flex input** but you can easily edit code.
 ## Output
   ![output](https://github.com/halilibrahimyildirim/Apriori/blob/master/screenshots/Output.png)
 ## Contact
